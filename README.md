@@ -32,3 +32,4 @@
 8. review/text: text of the review
 
 ## Data Source:
+[snap.stanford.edu](https://snap.stanford.edu/data/web-FineFoods.html)
